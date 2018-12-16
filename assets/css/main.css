@@ -1,6 +1,3 @@
-@import url(font-awesome.min.css);
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600");
-
 /*
 	Dimension by HTML5 UP
 	html5up.net | @ajlkn
@@ -23,8 +20,8 @@ section, summary, time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	vertical-align: baseline;}
-
+	vertical-align: baseline;
+	font-family: 'Calibri';}
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
